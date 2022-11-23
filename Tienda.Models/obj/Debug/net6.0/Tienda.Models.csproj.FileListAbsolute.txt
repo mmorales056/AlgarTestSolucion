@@ -1,0 +1,12 @@
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\bin\Debug\net6.0\Tienda.Models.deps.json
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\bin\Debug\net6.0\Tienda.Models.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\bin\Debug\net6.0\Tienda.Models.pdb
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.csproj.AssemblyReference.cache
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.AssemblyInfoInputs.cache
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.AssemblyInfo.cs
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.csproj.CoreCompileInputs.cache
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\refint\Tienda.Models.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\Tienda.Models.pdb
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Models\obj\Debug\net6.0\ref\Tienda.Models.dll

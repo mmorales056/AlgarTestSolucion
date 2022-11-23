@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tienda.UnitOfWork/1.0.0": {
+        "dependencies": {
+          "Tienda.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Tienda.UnitOfWork.dll": {}
+        }
+      },
+      "Tienda.Models/1.0.0": {
+        "runtime": {
+          "Tienda.Models.dll": {}
+        }
+      },
+      "Tienda.Repositories/1.0.0": {
+        "dependencies": {
+          "Tienda.Models": "1.0.0"
+        },
+        "runtime": {
+          "Tienda.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tienda.UnitOfWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tienda.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tienda.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

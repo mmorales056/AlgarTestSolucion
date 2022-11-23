@@ -1,0 +1,15 @@
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\bin\Debug\net6.0\Tienda.Repositories.deps.json
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\bin\Debug\net6.0\Tienda.Repositories.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\bin\Debug\net6.0\Tienda.Repositories.pdb
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\bin\Debug\net6.0\Tienda.Models.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\bin\Debug\net6.0\Tienda.Models.pdb
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.csproj.AssemblyReference.cache
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.AssemblyInfoInputs.cache
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.AssemblyInfo.cs
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.csproj.CopyComplete
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\refint\Tienda.Repositories.dll
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\Tienda.Repositories.pdb
+C:\Users\2126670\Desktop\ProjectAlgar\AlgarTestSolucion\Tienda.Repositories\obj\Debug\net6.0\ref\Tienda.Repositories.dll
