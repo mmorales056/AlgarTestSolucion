@@ -1,13 +1,13 @@
 # Requermientos
-  Net Core 6.0
-  SQL SERVER
+  * Net Core 6.0
+  * SQL SERVER
 
 # Como Ejecutar
-  Clonar el proyecto,
-  Ejecutar el Script llamado   dbRigo
+  * Clonar el proyecto,
+  * Ejecutar el Script llamado   dbRigo
 
-  Abrir algarTestSolucion
-  Ejecutar la aplicacion.
+  * Abrir algarTestSolucion
+  * Ejecutar la aplicacion.
 
 
 
