@@ -2,12 +2,12 @@
   Net Core 6.0
   SQL SERVER
 
-#Como Ejecutar
+# Como Ejecutar
   Clonar el proyecto,
-Ejecutar el Script llamado   dbRigo
+  Ejecutar el Script llamado   dbRigo
 
-Abrir algarTestSolucion
-Ejecutar la aplicacion.
+  Abrir algarTestSolucion
+  Ejecutar la aplicacion.
 
 
 
